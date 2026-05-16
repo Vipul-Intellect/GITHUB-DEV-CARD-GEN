@@ -79,6 +79,8 @@ PORT=8080
 
 Do not commit `.env`. It is ignored by Git and Docker.
 
+CLOUD RUN LINK: (https://gitgen-954357272016.asia-south1.run.app)
+
 ## Run Locally
 
 From the project root:
