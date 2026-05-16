@@ -1,0 +1,14 @@
+.git
+.gitignore
+.venv
+backend/.venv
+__pycache__
+**/__pycache__
+*.pyc
+.env
+backend/.env
+static/cards/*.html
+backend/static/cards/*.html
+node_modules
+dist
+.DS_Store

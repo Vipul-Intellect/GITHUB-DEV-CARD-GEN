@@ -1,0 +1,10 @@
+.env
+.venv/
+backend/.venv/
+__pycache__/
+**/__pycache__/
+*.pyc
+static/cards/*.html
+backend/static/cards/*.html
+node_modules/
+dist/

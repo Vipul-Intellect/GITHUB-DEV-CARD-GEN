@@ -1,0 +1,18 @@
+# This file specifies files that are NOT uploaded to Cloud Build.
+# Mirrors .dockerignore to avoid sending unnecessary files.
+.git
+.gitignore
+.venv
+backend/.venv
+__pycache__
+**/__pycache__
+*.pyc
+.env
+backend/.env
+static/cards/*.html
+backend/static/cards/*.html
+node_modules
+dist
+.DS_Store
+README.md
+docker-compose.yml
